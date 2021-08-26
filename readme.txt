@@ -29,7 +29,5 @@ Create your own User
 
 Admin
 user: admin
-pass: admin123
+pass: admin
 
-****** https://www.campcodes.com/ ******
-Subcribe my Youtube Channel **** SerBermz ****
